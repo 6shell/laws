@@ -13,11 +13,9 @@ $td-enable-google-fonts: true;
 @import url("https://fontsapi.zeoseven.com/582/main/result.css");
 
 /* 字体 */
-$font-kai: "gkai00mp", "Noto Serif SC", "Noto Serif", serif;
-$font-sans: "PingFang SC", "SimHei", "STHeiti", "Microsoft YaHei",
-  "Noto Sans CJK SC", "Noto Sans SC", sans-serif;
-$font-serif: "Zhuque Fangsong (technical preview)", 
-  "Noto Serif CJK SC", "Noto Serif SC", "SimSun", "STSong", serif;
+$font-kai: "KaiTi", "STKaiti", "Kai", "gkai00mp", serif;
+$font-sans: "PingFang SC", "SimHei", "STHeiti", "Noto Sans SC", "Microsoft YaHei", sans-serif;
+$font-serif: "FangSong", "STFangsong", "Zhuque Fangsong (technical preview)", serif;
 
 .pagination a {
   margin: 0 5px;

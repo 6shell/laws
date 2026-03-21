@@ -135,7 +135,7 @@ keywords:
   - Chapter VII Crimes of Impairing the Interests of National Defense
   - Chapter VIII Crimes of Embezzlement and Bribery
   - Chapter IX Crimes of Dereliction of Duty
-  - Chapter X Crimes of Service person’s Transgression of Duty
+  - Chapter X Crimes of Serviceperson’s Transgression of Duty
 - Supplementary Provision
 
 </details>
