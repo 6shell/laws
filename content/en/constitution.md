@@ -1,10 +1,11 @@
 ---
 title: Constitution of the People's Republic of China (2018 Amendment)
-LinkTitle: Constitution of the People's Republic of China (2018 Amendment)
 author: 全国人民代表大会
 date: '2018-03-11'
 publication_date: '2018-03-11'
 effective_date: '2018-03-11'
+link: https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html
+source: 中国政府网
 status: 有效
 group: 宪法
 categories:
@@ -23,8 +24,7 @@ years:
   - 1999年
   - 2004年
   - 2018年
-urls:
-  - https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html
+more: http://en.npc.gov.cn.cdurl.cn/constitution.html
 ---
 
 <style>
@@ -32,7 +32,7 @@ urls:
 .td-content ul,
 .td-content ol,
 .td-content table tbody {
-  font-family: Cambria, Georgia, "Times New Roman", Times, "FangSong", "STFangsong", "仿宋", "SimSun", "STSong", "宋体", serif;
+  font-family: Cambria, Georgia, "Times New Roman", Times, "FangSong", "STFangsong", serif;
 }
 .td-content h1,
 .td-content h2,
@@ -42,18 +42,22 @@ urls:
 .td-content h6,
 .td-content strong,
 .td-content b {
-  font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "SimHei", "STHeiti", "黑体", "Microsoft YaHei", "微软雅黑",  "Noto Sans CJK SC", "Noto Sans SC", sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "SimHei", "STHeiti", sans-serif;
 }
 
 .td-content blockquote,
 .td-content blockquote p {
-  font-family: Palatino, Georgia, "KaiTi", "STKaiti", "Kai", "楷体", serif;
+  font-family: Palatino, Georgia, "KaiTi", "STKaiti", "Kai", serif;
 }
 
 .td-content blockquote strong,
 .td-content blockquote b {
-  font-family: Palatino, Georgia, "KaiTi", "STKaiti", "Kai", "楷体", serif;
+  font-family: Palatino, Georgia, "KaiTi", "STKaiti", "Kai", serif;
   font-weight: bold;
+}
+
+.td-content li > p > strong {
+    margin-right: 2rem;
 }
 </style>
 
