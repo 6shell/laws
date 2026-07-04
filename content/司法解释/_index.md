@@ -7,7 +7,7 @@ menu: {main: {weight: 5, pre: "<i class='fa-solid fa-scroll'></i>" }}
 ---
 
 <details class="doc-details">
-<summary><strong>司法解释</strong>统计：共有881件，其中有效共559件</summary>
+<summary><strong>司法解释</strong>统计：共有882件，其中有效共561件</summary>
 {{% pageinfo %}}
 
 **司法解释**说明：
@@ -27,10 +27,9 @@ menu: {main: {weight: 5, pre: "<i class='fa-solid fa-scroll'></i>" }}
 
 ---
 
-**司法解释** 相关文本共有881件，其中：
+**司法解释** 相关文本共有882件，其中：
 
-- 尚未生效: 1
-- 有效: 559
+- 有效: 561
 - 已修改: 128
 - 已废止: 157
 - 未知: 36
