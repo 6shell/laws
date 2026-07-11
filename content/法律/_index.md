@@ -7,7 +7,7 @@ menu: {main: {weight: 2, pre: "<i class='fa-solid fa-gavel'></i>" }}
 ---
 
 <details class="doc-details">
-<summary><strong>法律</strong>统计：共有724件，其中有效共350件</summary>
+<summary><strong>法律</strong>统计：共有726件，其中有效共349件</summary>
 {{% pageinfo %}}
 
 **法律**说明：
@@ -54,13 +54,13 @@ menu: {main: {weight: 2, pre: "<i class='fa-solid fa-gavel'></i>" }}
 
 ---
 
-**法律** 相关文本共有724件，其中：
+**法律** 相关文本共有726件，其中：
 
-- 尚未生效: 2
-- 有效: 350
-- 已修改: 139
+- 尚未生效: 3
+- 有效: 349
+- 已修改: 140
 - 已废止: 23
-- 未知: 210
+- 未知: 211
 
 {{% /pageinfo %}}
 </details>
